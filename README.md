@@ -1,4 +1,4 @@
-# Pixiv Power Tools
+# Powerfull pixiv tools
 
 A Tampermonkey userscript that adds bulk selection, batch liking and bookmarking, full-resolution downloads, a free popularity sort, and bounded infinite scroll to Pixiv.
 
