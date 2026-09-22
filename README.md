@@ -21,8 +21,7 @@ Don't have Tampermonkey yet? Install it first from [tampermonkey.net](https://ww
 
 Then just click:
 
-**[Install Powerful Pixiv Tools](https://raw.githubusercontent.com/Sheenamiii/powerful-pixiv-tools
-/main/pixiv.user.js)**
+**[Install Powerful Pixiv Tools](https://raw.githubusercontent.com/Sheenamiii/powerful-pixiv-tools/main/pixiv.user.js)**
 
 Tampermonkey should open the install page automatically.
 
