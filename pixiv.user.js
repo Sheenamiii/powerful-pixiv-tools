@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Pixiv Power Tools
+// @name         Powerful Pixiv Tools
 // @namespace    http://tampermonkey.net/
 // @version      9.2.1
 // @description  Resizable panel, bounded infinite scroll, free popularity sort across loaded pages, full-resolution downloader, bulk like & bookmarking with dynamic tag detection for Pixiv
-// @author       You
+// @author       Sheenamiii
 // @match        https://www.pixiv.net/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
